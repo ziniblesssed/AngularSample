@@ -24,7 +24,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
             ],
             "scripts": []
           },
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Data-Demo"
+    }
+  },
+  "defaultProject": "Data-Demo",
+  "cli": {
+    "analytics": "602cad61-acc4-493c-9728-56ff34de9c4a"
+  }
 }
